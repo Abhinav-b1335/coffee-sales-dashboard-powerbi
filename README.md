@@ -66,4 +66,11 @@ The Coffee Cafe Sales Dashboard provides actionable insights into sales performa
 - Morning hours drive the highest sales.  
 - Coffee and tea dominate revenue contributions.  
 - Certain locations outperform others, guiding resource allocation.  
-- Weekday sales significantly surpass weekend sales, suggesting weekday-driven business.  
+- Weekday sales significantly surpass weekend sales, suggesting weekday-driven business.
+
+---
+  Author & Contact
+
+**Abhinav Bharti**
+
+Email: abhinav.b1335@gmail.com
